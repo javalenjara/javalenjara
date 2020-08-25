@@ -1,5 +1,5 @@
 ### Hi there I'm Jorge Valencia 👋
-## Software developer and self-learning entusiast in tech topics
+## Software developer and self-learning enthusiast in tech topics
 
 ### Connect with me:
 
