@@ -12,7 +12,7 @@
 
 <img align="left" alt="Java" width="26px" src="https://github.com/javalenjara/javalenjara/blob/master/icons/lang/java.svg" />
 <img align="left" alt="SpringFramework" width="26px" src="https://github.com/javalenjara/javalenjara/blob/master/icons/lang/spring-logo.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/javalenjara/javalenjara/blob/master/icons/dbms/mysql-logo.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/javalenjara/javalenjara/blob/master/icons/dbms/mysql.svg" />
 <img align="left" alt="IntelliJ" width="26px" src="https://github.com/javalenjara/javalenjara/blob/master/icons/ide/intellij-idea.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/javalenjara/javalenjara/blob/master/icons/lang/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/javalenjara/javalenjara/blob/master/icons/lang/github.svg" />
